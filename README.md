@@ -38,7 +38,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://portfolio-maaz-lyart.vercel.app/"><img alt="Website"></a>
-<a href="https://www.linkedin.com/in/maaz-bin-hassan-5942002a9/"><img alt="LinkedIn"></a>
+<a href="https://portfolio-maaz-lyart.vercel.app/"></a>
+<a href="https://www.linkedin.com/in/maaz-bin-hassan-5942002a9/"></a>
 
 </p>
