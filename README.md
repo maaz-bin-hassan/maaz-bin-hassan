@@ -91,7 +91,7 @@ I completed my **Bachelor of Software Engineering** at **Sukkur IBA University**
 <p>
  <img src="https://img.shields.io/badge/Cybersecurity-Google%20Specialization-0F0F0F?style=for-the-badge&logo=Google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Blockchain-Coursera%20Specialization-0F0F0F?style=for-the-badge&logo=blockchain-dot-com&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-Masterclass-Udemy%20-0F0F0F?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter%20Masterclass-Udemy-0F0F0F?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
 ---
