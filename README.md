@@ -77,8 +77,12 @@ I completed my **Bachelor of Software Engineering** at **Sukkur IBA University**
 #### 📝 [NoteHeaven - AI Note Taker App](https://github.com/maaz-bin-hassan/NoteHeaven)  
 > A Flutter app to manage notes with images, voice recordings, and AI help. Easily share notes with others.
 
+**Tech Used:** Flutter, Firebase, Firestore, Gemini API
+
 #### 🧘 [StressRelief App - Exercise & Meditation](https://github.com/maaz-bin-hassan/StressRelief)  
 > Mobile app for mood tracking and guided exercise/meditation via video and audio.
+
+**Tech Used:** Flutter, Firebase, Firestore, Youtube Player
 
 #### 🛒 [Gadget Groove - E-commerce Electronics Shop](https://github.com/maaz-bin-hassan/Gadget-Groove)  
 > Full-featured e-commerce website with WhatsApp chat integration. Buy electronics with data saved in Firebase.
