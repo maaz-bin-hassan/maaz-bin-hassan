@@ -13,7 +13,7 @@ I completed my **Bachelor of Software Engineering** at **Sukkur IBA University**
 
 ---
 
-### 🛠 Tech Stack (Icons Only)
+### 🛠 Tech Stack 
 
 #### 💻 Languages
 <p>
