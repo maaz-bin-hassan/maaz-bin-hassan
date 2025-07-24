@@ -114,3 +114,4 @@ I’m open to internships, freelance gigs, and collaborative projects in app dev
 <a href="https://www.maazbinhassan.site/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maazbinhassan.site-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/maaz-bin-hassan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maaz%20Bin%20Hassan-blue?style=flat-square&logo=linkedin"></a>
 </p>
+![](https://komarev.com/ghpvc/?username=maaz-bin-hassan&abbreviated=true)
