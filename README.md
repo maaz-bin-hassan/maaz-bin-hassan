@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=74FFDA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Cross-platform+mobile+app+developer;AI-native+builder;Shipping+sharp+products+people+actually+use" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=74FFDA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Cross-platform+mobile+app+developer;AI-native+builder+using+modern+coding+agents;Shipping+sharp+products+people+actually+use" alt="Typing introduction" />
 </div>
 
 ```console
@@ -26,8 +26,11 @@ Maaz Bin Hassan
 $ focus
 React Native + Flutter apps | AI-assisted products | Modern web platforms
 
+$ ai_toolbelt
+Claude Code | OpenAI Codex | Cursor | OpenClaw | Agentic workflows
+
 $ status
-Building reliable products with polished UX, clean architecture, and practical AI.
+Turning ideas into reliable releases with polished UX, clean architecture, and practical AI.
 ```
 
 ## About
@@ -45,6 +48,25 @@ My strongest work sits at the intersection of **mobile engineering**, **clean fr
 | Full-Stack Platforms | Quality and Delivery |
 | --- | --- |
 | Fast Next.js interfaces with API integration, dashboards, SEO structure, responsive layouts, and conversion-aware detail. | QA-minded delivery with clear state boundaries, edge-case thinking, performance checks, and release ownership. |
+
+## AI-Native Workflow
+
+I use modern AI tools and coding agents as part of the full engineering loop: understanding a codebase, planning the right change, implementing carefully, debugging difficult flows, verifying the result, and preparing a clean release.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-040b12?style=for-the-badge&amp;logo=anthropic&amp;logoColor=dcf4f1" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-040b12?style=for-the-badge&amp;logo=openai&amp;logoColor=74ffda" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Cursor-040b12?style=for-the-badge&amp;logo=cursor&amp;logoColor=4bceff" alt="Cursor" />
+  <img src="https://img.shields.io/badge/OpenClaw-040b12?style=for-the-badge&amp;logoColor=ff7da8" alt="OpenClaw" />
+</div>
+
+| Agent Skill | How I Use It |
+| --- | --- |
+| **Repository reasoning** | Explore unfamiliar codebases, map architecture, and make focused changes without flattening existing patterns. |
+| **Agent-assisted implementation** | Move from requirements to working features across mobile, web, backend, and integration layers. |
+| **Debugging and verification** | Trace broken user journeys, inspect runtime behavior, run checks, and verify the full flow before calling work complete. |
+| **Research and rapid iteration** | Compare implementation paths, validate current tooling, and shorten the distance between an idea and a polished release. |
+| **Automation mindset** | Use repeatable workflows, CLI tooling, and AI agents to remove tedious work while keeping engineering judgment in the loop. |
 
 ## Latest Release
 
@@ -99,6 +121,18 @@ My strongest work sits at the intersection of **mobile engineering**, **clean fr
   <img src="https://img.shields.io/badge/Google_Play-040b12?style=flat-square&amp;logo=googleplay&amp;logoColor=74ffda" alt="Google Play" />
 </div>
 
+## Skills
+
+| Area | Capabilities |
+| --- | --- |
+| **Mobile Engineering** | React Native, Flutter, iOS and Android delivery, auth, onboarding, wallets, maps, media flows, realtime messaging |
+| **Frontend Systems** | Next.js, React, TypeScript, responsive interfaces, dashboards, SEO structure, performance-minded UX |
+| **Backend and APIs** | Node.js, Express.js, REST APIs, GraphQL, authenticated integrations, state and network reliability |
+| **Data and Realtime** | Firebase, Supabase, PostgreSQL, MongoDB, realtime updates, notifications, collaboration flows |
+| **AI Product Development** | AI-assisted marketplaces, matching, tagging, smart search, note capture, assistant-driven experiences |
+| **AI Engineering Workflow** | Claude Code, OpenAI Codex, Cursor, OpenClaw, repo-aware agents, research, debugging, verification automation |
+| **Release Quality** | Xcode, App Store Connect, Android builds, Google Play Console, edge-case testing, clean handoff documentation |
+
 ## Build Method
 
 ```text
@@ -111,8 +145,15 @@ My strongest work sits at the intersection of **mobile engineering**, **clean fr
 ## GitHub Signal
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maaz-bin-hassan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=040b12&amp;title_color=74ffda&amp;text_color=dcf4f1&amp;icon_color=4bceff" alt="Maaz Bin Hassan GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-bin-hassan&amp;layout=compact&amp;hide_border=true&amp;bg_color=040b12&amp;title_color=74ffda&amp;text_color=dcf4f1" alt="Maaz Bin Hassan most used languages" />
+  <a href="https://github.com/maaz-bin-hassan?tab=followers">
+    <img src="https://img.shields.io/github/followers/maaz-bin-hassan?style=for-the-badge&amp;color=74ffda&amp;labelColor=040b12&amp;logo=github" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/maaz-bin-hassan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/maaz-bin-hassan?affiliations=OWNER&amp;style=for-the-badge&amp;color=4bceff&amp;labelColor=040b12&amp;logo=github" alt="GitHub stars" />
+  </a>
+  <a href="https://github.com/maaz-bin-hassan?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-102531?style=for-the-badge&amp;logo=github&amp;logoColor=74ffda" alt="Explore repositories" />
+  </a>
 </div>
 
 ## Connect
