@@ -1,117 +1,132 @@
-# 👋 Hi, I'm Maaz Bin Hassan
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:040b12,50:102531,100:0b3b44&amp;height=220&amp;section=header&amp;text=MAAZ%20BIN%20HASSAN&amp;fontSize=46&amp;fontColor=74ffda&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=AI-NATIVE%20MOBILE%20APP%20%2B%20FULL-STACK%20DEVELOPER&amp;descAlignY=58&amp;descSize=15&amp;descColor=dcf4f1" alt="Maaz Bin Hassan" />
+</div>
 
+<div align="center">
+  <a href="https://maazbinhassan.site/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-040b12?style=for-the-badge&amp;logo=vercel&amp;logoColor=74ffda" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/maaz-bin-hassan">
+    <img src="https://img.shields.io/badge/LINKEDIN-040b12?style=for-the-badge&amp;logo=linkedin&amp;logoColor=4bceff" alt="LinkedIn" />
+  </a>
+  <a href="mailto:maazbinhassan@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-040b12?style=for-the-badge&amp;logo=gmail&amp;logoColor=ff7da8" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=maaz-bin-hassan&amp;label=PROFILE+VIEWS&amp;color=102531&amp;style=for-the-badge" alt="Profile views" />
+</div>
 
-🎓 **Mobile App Developer | Full-Stack Web Developer | CyberSecurity Enthusiast**  
-📍 Sukkur, Pakistan | 📧 maazbinhassan@gmail.com  
-🌐 [Portfolio](https://www.maazbinhassan.site/) | [LinkedIn](https://linkedin.com/in/maaz-bin-hassan/) | [GitHub](https://github.com/maaz-bin-hassan)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1000&amp;color=74FFDA&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Cross-platform+mobile+app+developer;AI-native+builder;Shipping+sharp+products+people+actually+use" alt="Typing introduction" />
+</div>
 
----
+```console
+$ whoami
+Maaz Bin Hassan
 
-### 💡 About Me
+$ focus
+React Native + Flutter apps | AI-assisted products | Modern web platforms
 
-I completed my **Bachelor of Software Engineering** at **Sukkur IBA University**, and I’m passionate about building responsive and user-centric applications. With **3+ years of hands-on experience**, I specialize in **mobile app development using Flutter**, CyberSecurity, and full-stack web development using **MERN/PERN** stacks.
+$ status
+Building reliable products with polished UX, clean architecture, and practical AI.
+```
 
----
+## About
 
-### 🛠 Tech Stack 
+I am a software engineer from Pakistan focused on high-performing mobile apps, AI-assisted marketplaces, and modern web platforms that feel premium without becoming heavy.
 
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+My strongest work sits at the intersection of **mobile engineering**, **clean frontend systems**, **AI-enhanced product flows**, and **practical delivery**. I care about the details users feel: fast first load, smooth navigation, resilient network behavior, useful empty states, and screens that make the next step obvious.
 
+## Product Focus
 
-#### 🎨 Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-</p>
+| Mobile App Systems | AI Product Experiences |
+| --- | --- |
+| React Native and Flutter apps with auth, realtime messaging, onboarding, wallets, media flows, and reliable release habits. | Practical AI features for matching, tagging, note capture, smart search, and assistant-driven UX. |
 
-#### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white"/>
-</p>
+| Full-Stack Platforms | Quality and Delivery |
+| --- | --- |
+| Fast Next.js interfaces with API integration, dashboards, SEO structure, responsive layouts, and conversion-aware detail. | QA-minded delivery with clear state boundaries, edge-case thinking, performance checks, and release ownership. |
 
-#### 🗃️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+## Latest Release
 
-#### 🧰 Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-F9A825?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenRouter-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-0F0F0F?style=for-the-badge&logo=HackTheBox&logoColor=00FF00"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <strong>SourcePulse</strong><br />
+      A zero-config project intelligence CLI for JavaScript and TypeScript repositories. It scans dependency health, dead code, environment hygiene, circular dependencies, security risks, and repository freshness locally.
+      <br /><br />
+      <code>npx sourcepulse</code>
+      <br /><br />
+      <a href="https://www.npmjs.com/package/sourcepulse">
+        <img src="https://img.shields.io/npm/v/sourcepulse?style=flat-square&amp;color=74ffda&amp;labelColor=040b12&amp;label=npm" alt="SourcePulse npm version" />
+      </a>
+      <a href="https://github.com/maaz-bin-hassan/sourcepulse">
+        <img src="https://img.shields.io/badge/source-GitHub-4bceff?style=flat-square&amp;labelColor=040b12&amp;logo=github" alt="SourcePulse GitHub repository" />
+      </a>
+    </td>
+  </tr>
+</table>
 
----
+## Selected Work
 
-### 📱 Featured Projects
+| Project | What It Delivers | Stack |
+| --- | --- | --- |
+| [**Sahoolat AI**](https://sahoolatai.com/) | Local jobs marketplace for Pakistan with audio briefs, worker bids, AI-assisted matching, realtime chat, and reputation-driven discovery. | React Native, Next.js, TypeScript, MongoDB |
+| [**SourcePulse**](https://github.com/maaz-bin-hassan/sourcepulse) | Open-source CLI that turns hidden repository issues into an actionable health report while keeping source code local. | Node.js, TypeScript, CLI Architecture |
+| [**UNI-verse**](https://github.com/maaz-bin-hassan/FYP-UNI-verse-F21) | Collaborative university communication app with posts, opportunities, realtime notifications, and AI assistance. | Flutter, Firebase, Hugging Face |
+| [**Max Collection**](https://www.maxcollection.shop) | Live multi-category storefront with responsive product discovery and conversion-focused shopping flows. | Next.js, TypeScript, Tailwind CSS, Supabase |
+| [**Oleo Organics**](https://oleo-organics.vercel.app/) | Polished e-commerce storefront with modern product discovery and checkout-ready UX. | Next.js, React, TypeScript, Tailwind CSS |
 
-#### 🌐 [UNI-verse](https://github.com/maaz-bin-hassan/FYP-UNI-verse-F21) — *Final Year Project*  
-> An AI-powered university bulletin board app built with Flutter and Firebase, featuring real-time post approvals, AI-based categorization (Hugging Face), chatbot assistant (Dialogflow), and secure authentication.
+<div align="center">
+  <a href="https://maazbinhassan.site/#projects">
+    <img src="https://img.shields.io/badge/EXPLORE_MORE_WORK-102531?style=for-the-badge&amp;logo=vercel&amp;logoColor=74ffda" alt="Explore more work" />
+  </a>
+</div>
 
-**Tech Used:** Flutter, Firebase, Firestore, Cloudinary, Hugging Face, Dialogflow, OpenRouter API
+## Stack
 
-#### 📝 [NoteHeaven - AI Note Taker App](https://github.com/maaz-bin-hassan/NoteHeaven)  
-> A Flutter app to manage notes with images, voice recordings, and AI help. Easily share notes with others.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,flutter,dart,nodejs,express,firebase,supabase,mongodb,postgres,python,git,docker&amp;theme=dark&amp;perline=8" alt="Technology stack" />
+</div>
 
-**Tech Used:** Flutter, Firebase, Firestore, Gemini API
+<br />
 
-#### 🧘 [StressRelief App - Exercise & Meditation](https://github.com/maaz-bin-hassan/StressRelief)  
-> Mobile app for mood tracking and guided exercise/meditation via video and audio.
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-040b12?style=flat-square&amp;logo=react&amp;logoColor=74ffda" alt="React Native" />
+  <img src="https://img.shields.io/badge/GraphQL-040b12?style=flat-square&amp;logo=graphql&amp;logoColor=ff7da8" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Zustand-040b12?style=flat-square&amp;logoColor=74ffda" alt="Zustand" />
+  <img src="https://img.shields.io/badge/REST_APIs-040b12?style=flat-square&amp;logoColor=4bceff" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/App_Store_Connect-040b12?style=flat-square&amp;logo=apple&amp;logoColor=dcf4f1" alt="App Store Connect" />
+  <img src="https://img.shields.io/badge/Google_Play-040b12?style=flat-square&amp;logo=googleplay&amp;logoColor=74ffda" alt="Google Play" />
+</div>
 
-**Tech Used:** Flutter, Firebase, Firestore, Youtube Player
+## Build Method
 
-#### 🛒 [Gadget Groove - E-commerce Electronics Shop](https://github.com/maaz-bin-hassan/Gadget-Groove)  
-> Full-featured e-commerce website with WhatsApp chat integration. Buy electronics with data saved in Firebase.
+```text
+01  Understand the business result first
+02  Map the critical user journeys
+03  Build the smallest excellent version
+04  Stress-test performance and release risks
+```
 
-**Tech Used:** React.js, Node.js, Firebase, Figma
+## GitHub Signal
 
----
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maaz-bin-hassan&amp;show_icons=true&amp;hide_border=true&amp;bg_color=040b12&amp;title_color=74ffda&amp;text_color=dcf4f1&amp;icon_color=4bceff" alt="Maaz Bin Hassan GitHub stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-bin-hassan&amp;layout=compact&amp;hide_border=true&amp;bg_color=040b12&amp;title_color=74ffda&amp;text_color=dcf4f1" alt="Maaz Bin Hassan most used languages" />
+</div>
 
-### 🏆 Certifications
-<p>
- <img src="https://img.shields.io/badge/Cybersecurity-Google%20Specialization-0F0F0F?style=for-the-badge&logo=Google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-Coursera%20Specialization-0F0F0F?style=for-the-badge&logo=blockchain-dot-com&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter%20Masterclass-Udemy-0F0F0F?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+## Connect
 
----
+<div align="center">
+  <strong>Have a product idea, a difficult flow, or a messy first version?</strong>
+  <br />
+  Let us shape it into something credible, fast, and clean.
+  <br /><br />
+  <a href="mailto:maazbinhassan@gmail.com">
+    <img src="https://img.shields.io/badge/START_A_PROJECT-74ffda?style=for-the-badge&amp;logo=gmail&amp;logoColor=040b12" alt="Start a project" />
+  </a>
+</div>
 
-### 🤝 Let's Connect!
-
-I’m open to internships, freelance gigs, and collaborative projects in app development, UI/UX design, or full-stack development.
-
-📫 **Email**: maazbinhassan@gmail.com  
-🌐 **Portfolio**: [www.maazbinhassan.site](https://www.maazbinhassan.site/)  
-🔗 **LinkedIn**: [Maaz Bin Hassan](https://linkedin.com/in/maaz-bin-hassan/)
-
----
-
-<p align="center">
-<a href="https://www.maazbinhassan.site/"><img alt="Website" src="https://img.shields.io/badge/Website-www.maazbinhassan.site-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/maaz-bin-hassan/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maaz%20Bin%20Hassan-blue?style=flat-square&logo=linkedin"></a>
-</p>
-![](https://komarev.com/ghpvc/?username=maaz-bin-hassan&label=PROFILE+VIEWS)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:040b12,50:102531,100:0b3b44&amp;height=110&amp;section=footer" alt="" />
+</div>
