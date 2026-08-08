@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <a href="https://maazbinhassan.site/">
+  <a href="https://maazbinhassan.com/">
     <img src="https://img.shields.io/badge/PORTFOLIO-040b12?style=for-the-badge&amp;logo=vercel&amp;logoColor=74ffda" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/maaz-bin-hassan">
