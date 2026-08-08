@@ -99,7 +99,7 @@ I use modern AI tools and coding agents as part of the full engineering loop: un
 | [**Oleo Organics**](https://oleo-organics.vercel.app/) | Polished e-commerce storefront with modern product discovery and checkout-ready UX. | Next.js, React, TypeScript, Tailwind CSS |
 
 <div align="center">
-  <a href="https://maazbinhassan.site/#projects">
+  <a href="https://maazbinhassan.com/#projects">
     <img src="https://img.shields.io/badge/EXPLORE_MORE_WORK-102531?style=for-the-badge&amp;logo=vercel&amp;logoColor=74ffda" alt="Explore more work" />
   </a>
 </div>
